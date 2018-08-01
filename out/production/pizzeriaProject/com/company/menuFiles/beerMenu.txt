@@ -1,0 +1,1 @@
+name: Svyturis, big price: 3.10, small price: 2.20

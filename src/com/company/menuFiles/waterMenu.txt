@@ -1,0 +1,3 @@
+name: Still, big price: 0.80, small price: 0.50
+name: Sparkling, big price: 1.20, small price: 0.80
+

@@ -1,0 +1,1 @@
+name: Black, big price: 2.00, small price: 1.20

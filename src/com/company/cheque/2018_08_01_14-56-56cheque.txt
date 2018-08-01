@@ -1,0 +1,10 @@
+Cheque print time: 2018-08-01 14:56:56
+Order list:
+0. Large Ham kebab with MIX sauce. Total price: 3.80
+1. Large Black with milk with sugar for: 2.50
+
+										Price without tax: 6.30
+										Tax amount 21%: 1.32
+										Total price with tax: 7.62
+
+ Approximate order completion time: 2018-08-01 15:16:56
